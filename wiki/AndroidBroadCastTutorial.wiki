@@ -1,4 +1,4 @@
-# BroadCastReceiver Tutorial
+# Broad Cast Receiver Tutorial
 = Introduction =
 
 Tutorial for BroadCastReceiver
