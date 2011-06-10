@@ -10,6 +10,6 @@ Tutorial for Hello World
 [http://code.google.com/p/droidtwit/source/browse/#svn%2Ftrunk%2Ftutorials%2FHelloWorld]
 
 = Video Tutorial = 
-A Better resolution video is coming soon
+Part 2 video is coming soon
 
-<wiki:video url="http://www.youtube.com/watch?v=aS4VNbe1a0c"/>
+<wiki:video url="http://www.youtube.com/watch?v=13ACQYMN2nk"/>
