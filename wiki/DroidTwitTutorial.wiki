@@ -6,10 +6,7 @@ This is a step by step Tutorial on how to build an Android Twitter client
 
 = Tutorial Listing =
 
-  * [AndroidHelloWorldTutorial AndroidHelloWorldTutorial]
-  * AndroidActivityTransitionTutorial
-  * AndroidListActivityTutorial
-  * AndroidEventHandlerTutorial
-  * AndroidAsyncTaskTutorial
-  * AndroidServiceTutorial
-  * AndroidBroadCastTutorial
+  * [AndroidHelloWorldTutorial Hello World Tutorial]
+  * [AndroidListActivityAsyncTaskTutorial List Activity and AsyncTask Tutorial]
+  * [AndroidServiceTutorial Service Indepth Tutorial]
+  * [AndroidBroadCastTutorial BroadCastReceiver Tutorial]
