@@ -10,6 +10,11 @@ Tutorial for Hello World
 [http://code.google.com/p/droidtwit/source/browse/#svn%2Ftrunk%2Ftutorials%2FHelloWorld]
 
 = Video Tutorial = 
-Part 2 video is coming soon
+
+Part 1
 
 <wiki:video url="http://www.youtube.com/watch?v=13ACQYMN2nk"/>
+
+
+Part 2
+<wiki:video url="http://www.youtube.com/watch#!v=_sM-a0aak4o"/>
