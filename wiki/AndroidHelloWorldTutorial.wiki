@@ -17,4 +17,4 @@ Part 1
 
 
 Part 2
-<wiki:video url="http://www.youtube.com/watch#!v=_sM-a0aak4o"/>
+<wiki:video url="http://www.youtube.com/watch?v=_sM-a0aak4o"/>
